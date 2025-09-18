@@ -1,10 +1,23 @@
 - 👋 Hi, I’m @SwapnilPawar343
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 B.Tech IT Student @ G.H. Raisoni College of Engineering (CGPA: 8.88)
+
+🔥 Skilled in React.js, Node.js, MongoDB, Tailwind CSS
+
+🛠️ Built cool stuff like:
+
+🛒 E-Commerce App – Full-stack with payment gateway
+
+🏠 Real Estate App – Property listings & details
+
+🩺 Prescripto App – Appointment booking with doctors
+
+🌱 Smart Farming Platform – IoT + full-stack integration
+
+🎮 Snake Game, Quiz App, To-Do List & more with JavaScript
+
+🌟 Exploring Machine Learning & Real-time Apps
+
+💬 Always open to collabs, open-source, and hackathons
 
 <!---
 SwapnilPawar343/SwapnilPawar343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
