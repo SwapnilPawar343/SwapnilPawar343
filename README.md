@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SwapnilPawar343
-🎓 B.Tech IT Student @ G.H. Raisoni College of Engineering (CGPA: 8.88)
+🎓 B.Tech IT Student @ G.H. Raisoni College of Engineering (CGPA: 9.11)
 
 🔥 Skilled in React.js, Node.js, MongoDB, Tailwind CSS
 
